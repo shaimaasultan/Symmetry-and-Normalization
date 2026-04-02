@@ -18,4 +18,24 @@ by only using the model that use weights and distances you basiclly simplfying t
 
 **and same symmetry plus normaliztion model is the one that Riemann hundred years ago notice it in his hypothesis that all non-trivial Zeros lies on the critical line.**
 
+When you have every thing in your number system is normalized into an interval between [0,1] to make all your math models works good in a 2D modeles then your symmetry is a line at exactly 1/2.
+
+you can not include immaginary numbers [i] into the 2D geometry and build the complex plane without normalize this using [i^2 = -1], or you can not model 3D geometry into 2D space.
+
+you can not build Sin(x) wave without normalize a full circle into a one unit to make the max point for the Sin wave to be = 1, or you are breaking the infinty oscillating of sin wave 🌊
+
+you can not build Cos(x) wave without normalize a full circle into a one unit to make the max point for the Cos wave to be = 1, or you are breaking the infinty oscillating of Cos wave 🌊
+
+you can not build Euler's identity without saying that every thing in the unit circle and build the Euler's idenity to say e^ix = cos(x) + i sin(x) without this normaliztion in the interval [0,1] and symmetry in the negative side [-1,0].
+and any irregularity in anyplace in the complex plane that is not considered in this normalization interval the symmetry will be distributed and the Euler's circle will show irregularly.
+
+also if you did not normalize pi as (pi/2)*i = ln(i) you can not do the pi synchronize with sin and cos waves 🌊 to have values 1 or 0 at one pi cirles 
+
+so if we are using system that is normalized into an interval [0,1] and symmetric in this interval [-1,1] and **we accept that [0] zero is the symmetry point for this interval [-1,1]** 
+Why it is hard to accept that if you used half the circle sin(s pi/2)  i.e. we used the interval [0,1] **why we are so surprised 🤨 that its symmetry point will always be [1/2]**
+
+**you can not build something based on Normalization + Symmetry and be surprised if the result was your own definition**
+
+
+
 
