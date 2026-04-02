@@ -9,7 +9,8 @@ our mathimatical universal model is built base on two core principles
 2- Symmetry
 
 These two principles is the summary core idea also for my Garvity model the free-lock enegry model
-in order to have stable system where every thing is moving and exploding and mearging, withouth considering these two princles as the main actor behind this stability and only consider that your system based only on the weights of things and the distances you basically simplify the system and make it unstable system and this is give a hug contradition with every science observations.
+
+In order to have **stable system** where **every thing is moving and exploding and mearging**, withouth considering these two princles as the main actor behind this stability and only consider that your system based only on the weights of things and the distances you basically simplify the system and make it unstable system and this is give a hug contradition with every science observations.
 
 by only using the model that use weights and distances you basiclly simplfying the system to a very close model but you are not fully undertanding the system and how the universal engine is working, my gravity model on the other hand is built based on this concept of normalization and symmetry is a better explaining theory for this engine
 
