@@ -36,6 +36,10 @@ Why it is hard to accept that if you used half the circle sin(s pi/2)  i.e. we u
 
 **you can not build something based on Normalization + Symmetry and be surprised if the result was your own definition**
 
-
+<img src="04/20260402_072816000_iOS.png" />
+<img src="04/20260402_083308000_iOS.png" />
+<img src="04/20260402_082115000_iOS.png" />
+<img src="04/20260402_082508000_iOS.png" />
+<img src="04/20260402_081524000_iOS.png" />
 
 
