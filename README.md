@@ -41,5 +41,10 @@ Why it is hard to accept that if you used half the circle sin(s pi/2)  i.e. we u
 <img src="04/20260402_082115000_iOS.png" />
 <img src="04/20260402_082508000_iOS.png" />
 <img src="04/20260402_081524000_iOS.png" />
+<img src="04/20260402_075935000_iOS.png" /> 20260402_075935000_iOS.png
+<img src="04/20260402_074814000_iOS.png" />
+<img src="04/20260402_074833000_iOS.png" /> 
+
+
 
 
