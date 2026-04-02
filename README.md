@@ -1,7 +1,7 @@
 # Journy from the moon to Zeta function and our number system
 Symmetry plus Normalization 
 
-My Paper in review stage now:  A Kernel–Lattice Criterion Equivalent to the Riemann Hypothesis
+My Paper in review stage now:  **A Kernel–Lattice Criterion Equivalent to the Riemann Hypothesis**
 
 our mathimatical universal model is built base on two core principles
 
