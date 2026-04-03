@@ -1,4 +1,4 @@
-# Journy from the moon to Zeta function and our number system
+# Journy from the moon to Zeta function and our number system (Prime Number are Odd numbers with more Granular Segmentation)
 Symmetry plus Normalization 
 
 My Paper in review stage now:  **A Kernel–Lattice Criterion Equivalent to the Riemann Hypothesis**
