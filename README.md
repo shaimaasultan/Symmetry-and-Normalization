@@ -45,6 +45,8 @@ Why it is hard to accept that if you used half the circle sin(s pi/2)  i.e. we u
 
 even when you apply normalization you must apply the symmetry in the normalization itself. therefore, your Normalizations is from [0,1] becase in normalization you **must use one unit to normalize everything to this one unit**, but you cann't normalize symmetric system without adding this symmetry to your normalization, therefor, you need to do the same unit normalization from [0,1] in the negative side as well by extending the range to [-1,0], so you have [0,1] and its symmetry is [-1,0]. and this is why the even functions experiance zero at its symmetry point at Zero between [-1,1]. strangly math accepts this as zeros for even functions and never ask for a proof for it, while they did not accept the same thing for the odd function when there Zeros landed on 1/2 the symmtery point of the odd functions.
 
+Prime numbers are Odd numbers by the way, and there is no Prime that will break outside from the Odd group. No Exceptions.
+
 **you can not build something based on Normalization + Symmetry and be surprised if the result was your own definition**
 
 <img src="04/20260402_072816000_iOS.png" />
