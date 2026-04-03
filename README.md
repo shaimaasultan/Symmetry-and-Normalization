@@ -55,6 +55,7 @@ becasue [1/2] is soly a consequent of symmetry and normalization. in both cases 
 
 **you can not build something based on Normalization + Symmetry and be surprised if the result was your own definition**
 
+<img src ="04/Screenshot 2026-04-03 192406.png" />
 <img src="04/20260402_072816000_iOS.png" />
 <img src="04/20260402_083308000_iOS.png" />
 <img src="04/20260402_082115000_iOS.png" />
