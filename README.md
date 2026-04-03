@@ -43,6 +43,8 @@ also if you did not normalize pi as (pi/2)*i = ln(i) you can not do the pi synch
 so if we are using system that is normalized into an interval [0,1] and symmetric in this interval [-1,1] and **we accept that [0] zero is the symmetry point for this interval [-1,1]** 
 Why it is hard to accept that if you used half the circle sin(s pi/2)  i.e. we used the interval [0,1] **why we are so surprised 🤨 that its symmetry point will always be [1/2]**
 
+even when you apply normalization you must apply the symmetry in the normalization itself. therefore, your Normalizations is from [0,1] becase in normalization you **must use one unit to normalize everything to this one unit**, but you cann't normalize symmetric system without adding this symmetry to your normalization, therefor, you need to do the same unit normalization from [0,1] in the negative side as well by extending the range to [-1,0], so you have [0,1] and its symmetry is [-1,0]. and this is why the even functions experiance zero at its symmetry point at Zero between [-1,1]. strangly math accepts this as zeros for even functions and never ask for a proof for it, while they did not accept the same thing for the odd function when there Zeros landed on 1/2 the symmtery point of the odd functions.
+
 **you can not build something based on Normalization + Symmetry and be surprised if the result was your own definition**
 
 <img src="04/20260402_072816000_iOS.png" />
