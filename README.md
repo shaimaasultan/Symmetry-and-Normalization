@@ -51,6 +51,8 @@ Any patterns for the prime distribution or odd distiribution will change this No
 
 becasue [1/2] is soly a consequent of symmetry and normalization. in both cases if odds are the limtis or if the primes are the limits both are odds this is why both there sysmmetry will be at [1/2].
 
+**it was only illusion** that it is Prime property because some odd numbers can be included into other odds like 9 = 3*3 but 3 must = 3, so these two concepts was mixed as if this was a prime thing, but it is NOT, it is ODD Symmetry Normalization thing.
+
 **you can not build something based on Normalization + Symmetry and be surprised if the result was your own definition**
 
 <img src="04/20260402_072816000_iOS.png" />
