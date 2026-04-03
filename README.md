@@ -21,6 +21,10 @@ by only using the model that use weights and distances you basiclly simplfying t
 
 <img src="04/Prime_Numbers.png" /> 
 
+**This next image is a simplification decription for the Idea presented in my Paper to Proof RH and descripe the previous image and the Excel sheet. **Not Exact Part of the paper** **
+
+<img src="04/Screenshot 2026-04-02 213657.png" />
+
 When you have every thing in your number system is normalized into an interval between [0,1] to make all your math models works good in a 2D modeles then your symmetry is a line at exactly 1/2.
 
 you can not include immaginary numbers [i] into the 2D geometry and build the complex plane without normalize this using [i^2 = -1], or you can not model 3D geometry into 2D space.
