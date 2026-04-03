@@ -17,6 +17,8 @@ by only using the model that use weights and distances you basiclly simplfying t
 **from my perspective the Zero back trip from the moon is the proof my gravity model**
 
 **and same symmetry plus normaliztion model is the one that Riemann hundred years ago notice it in his hypothesis that all non-trivial Zeros lies on the critical line.**
+**Numbers are Even OR ODD **
+
 <img src="04/Prime_Numbers.png" /> 
 
 When you have every thing in your number system is normalized into an interval between [0,1] to make all your math models works good in a 2D modeles then your symmetry is a line at exactly 1/2.
