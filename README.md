@@ -36,6 +36,8 @@ you can not build Cos(x) wave without normalize a full circle into a one unit to
 you can not build Euler's identity without saying that every thing in the unit circle and build the Euler's idenity to say e^ix = cos(x) + i sin(x) without this normaliztion in the interval [0,1] and symmetry in the negative side [-1,0].
 and any irregularity in anyplace in the complex plane that is not considered in this normalization interval the symmetry will be distributed and the Euler's circle will show irregularly.
 
+you cann't build **mote carlo and markove chain and basian law** without using P(x|theta) P(x) = P(theta|x) P(theta) if you do not have normalizaed system and symmetry already existing to build on top of it, you cann't use the probability in math at all, and if there is any outlier that is not been already normalized then the whole branch of probability in math was have been proken already by this outlier probability.
+
 also if you did not normalize pi as (pi/2)*i = ln(i) you can not do the pi synchronize with sin and cos waves 🌊 to have values 1 or 0 at one pi cirles 
 
 so if we are using system that is normalized into an interval [0,1] and symmetric in this interval [-1,1] and **we accept that [0] zero is the symmetry point for this interval [-1,1]** 
