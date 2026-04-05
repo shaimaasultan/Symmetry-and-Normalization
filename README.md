@@ -46,7 +46,7 @@ The present paper, A Kernel–Lattice Criterion Equivalent to the Riemann Hypoth
 
 **This next image is a simplification decription for the Idea presented in my Paper to Proof RH and descripe the previous image and the Excel sheet. **Not Exact Part of the paper** **
 
-<--!<img src="04/Screenshot 2026-04-02 213657.png" /> -->
+<!--<img src="04/Screenshot 2026-04-02 213657.png" /> -->
 
 # Normalization, Symmetry, and the Structure of Our Number System
 
