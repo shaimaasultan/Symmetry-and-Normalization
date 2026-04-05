@@ -139,8 +139,8 @@ It is not surprising that the symmetry point for odd functions, odd numbers, and
 
 **1/2**
 
-This is not a mystery.  
-It is the inevitable consequence of the structure we ourselves imposed.
+**This is not a mystery.**  
+**It is the inevitable consequence of the structure we ourselves imposed.**
 
 
 
