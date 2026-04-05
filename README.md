@@ -18,7 +18,7 @@ The critical line Re(s) = 1/2 is not mysterious — it is the inevitable symmetr
 RH simply states that the zeta function respects this universal rule of normalized odd systems.
 
 **Statement (Invariance on the Symmetry Line).**  
-For any analytic object arising from a normalized odd system, the symmetry axis of the normalized domain is fixed at(1/2). If the distribution of structural features (such as zeros, oscillations, or spectral values) is governed by this normalization, then the distribution is invariant under reflection across the line \( \Re(s) = \tfrac{1}{2} \). In the context of the Riemann zeta function, this means that the non‑trivial zeros must lie on the critical line because the normalized odd system admits no other symmetry axis.  
+For any analytic object arising from a normalized odd system, the symmetry axis of the normalized domain is fixed at(1/2). If the distribution of structural features (such as zeros, oscillations, or spectral values) is governed by this normalization, then the distribution is invariant under reflection across the line Re(s) = 1/2. In the context of the Riemann zeta function, this means that the non‑trivial zeros must lie on the critical line because the normalized odd system admits no other symmetry axis.  
 Thus, the critical line is not merely a location of zeros — **it is the unique invariant symmetry line of the normalized odd domain.**
 
 **The symmetry line at 1/2 is invariant.**  
