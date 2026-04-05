@@ -55,6 +55,8 @@ becasue every ODD is included inside a Prime number like 15 = 3*5 so it can be m
 
 **it was only illusion** that it is Prime property because some odd numbers can be included into other odds like 9 = 3*3 but 3 must = 3, so these two concepts was mixed as if this was a prime thing, but it is NOT, it is ODD Symmetry Normalization thing.
 
+**NO outliers Primes will be ever founded that will break away from the symmetry line [1/2] becasue, In theory if even they were exits then they must have been already Normalized in our Number system already into unit Circle [0,1], thus, even this outlier would obay the Symmetry at strip line [1/2]**
+
 **you can not build something based on Normalization + Symmetry and be surprised if the result was your own definition**
 
 <img src ="04/Screenshot 2026-04-03 192406.png" />
