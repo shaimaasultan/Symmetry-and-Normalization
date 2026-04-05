@@ -47,9 +47,11 @@ even when you apply normalization you must apply the symmetry in the normalizati
 
 Prime numbers are Odd numbers by the way, and there is no Prime that will break outside from the Odd group. No Exceptions.
 
-Any patterns for the prime distribution or odd distiribution will change this Normalization Symmetry point [1/2] because they are already odds. so finding any distribution or any pattern will not ever going ever to change this symmetry and normalization base.
+Any founded patterns for the prime distribution or odd distiribution will NOT going to change this Normalization Symmetry point [1/2] because Primes are already odds. so finding any distribution or any pattern will not going ever to change this symmetry and normalization base away from [1/2].
 
-becasue [1/2] is soly a consequent of symmetry and normalization. in both cases if odds are the limtis or if the primes are the limits both are odds this is why both there sysmmetry will be at [1/2].
+becasue [1/2] is soly a consequent of symmetry and normalization for Odd dimain. in both cases if odds are the limtis or if the primes are the limits both are odds,and this is why both there sysmmetry will be at [1/2].
+
+becasue every ODD is included inside a Prime number like 15 = 3*5 so it can be multiple of 5 or of 3, then we can say Primes are the parent set for the Odds.
 
 **it was only illusion** that it is Prime property because some odd numbers can be included into other odds like 9 = 3*3 but 3 must = 3, so these two concepts was mixed as if this was a prime thing, but it is NOT, it is ODD Symmetry Normalization thing.
 
