@@ -182,6 +182,78 @@ becasue every ODD is included inside a Prime number like 15 = 3*5 so it can be m
 -->
 
 <img src ="04/Screenshot 2026-04-03 192406.png" />
+# Summary of the Concepts Presented
+
+The material develops a unified argument connecting **quantum mechanics**, **gravity**, **locality**, and **probability theory** through the shared structural principles of **symmetry** and **normalization**.
+
+---
+
+## 1. Quantum Mechanics and Normalization
+
+Quantum mechanics is presented as fundamentally correct because it is built on:
+
+- **Probability**, which normalizes all quantities into comparable units.
+- **Symmetry**, expressed through the Bayesian identity:
+
+**P(x | θ) P(θ) = P(θ | x) P(x)**  
+
+This relationship ensures that prior and posterior information remain structurally balanced.  
+Quantum behavior is therefore not a violation of locality but a reflection of how normalized probabilistic systems behave when symmetry is enforced.
+
+---
+
+## 2. Einstein’s Interpretation of Locality
+
+The text argues that Einstein misunderstood locality by assuming that sources must be locally fixed.  
+Instead:
+
+- **Nothing in the universe is stationary.**
+- Locality should refer to the **locality of effects**, not the locality of sources.
+
+Quantum mechanics does not break locality; it measures effects in a system where everything is in motion.
+
+---
+
+## 3. Gravity as a Normalization–Symmetry System
+
+The gravity model described is based on:
+
+- **Motion**, not static masses  
+- **Normalization**, ensuring all interactions are measured relative to a consistent unit  
+- **Symmetry**, governing how effects propagate through space  
+
+This model claims to better reflect the real universe, where nothing is steady and all interactions are dynamic.
+
+A diagram in the original content illustrates how gravitational effects propagate over time, reinforcing the idea that locality must be defined in terms of **effects**, not **positions**.
+
+---
+
+## 4. FFT, Symmetry, and Measurement
+
+The text suggests that quantum mechanics uses symmetry and Fourier‑based transformations (FFT) to measure effects across space.  
+This supports the idea that:
+
+- The universe is fundamentally oscillatory  
+- Symmetry and normalization are the tools that allow us to measure it  
+- Gravity and quantum mechanics share the same structural foundation  
+
+---
+
+## 5. Core Principle
+
+The conclusion is that:
+
+> **Symmetry + Normalization is the universal engine behind both quantum mechanics and gravity.**
+
+This principle is presented as the unifying explanation for:
+
+- Why quantum mechanics works  
+- Why gravity behaves as it does  
+- Why locality is preserved when defined correctly  
+- Why the universe remains stable despite constant motion  
+
+The text ends by pointing to the gravity model and its repository, emphasizing that this framework captures the underlying structure of the universe.
+
 <img src="04/20260402_072816000_iOS.png" />
 <img src="04/20260402_083308000_iOS.png" />
 <img src="04/20260402_082115000_iOS.png" />
